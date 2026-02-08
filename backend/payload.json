@@ -1,0 +1,5 @@
+{
+    "title": "Golang 1.22 Features",
+    "url": "https://go.dev/blog/go1.22",
+    "content": "Go 1.22 introduces a new loop variable scope behavior and other improvements."
+}
